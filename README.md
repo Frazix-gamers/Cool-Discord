@@ -1,6 +1,6 @@
 ## Cool Discord
 uses a lot of other theems and made a all in one
-it uses the **[RadialStatus](https://betterdiscord.app/theme/RadialStatus), [Frosted Glass](https://betterdiscord.app/theme/Frosted%20Glass), [Horizontal Server List](https://betterdiscord.app/theme/Horizontal%20Server%20List)
+it uses the **[RadialStatus](https://betterdiscord.app/theme/RadialStatus), [Frosted Glass](https://betterdiscord.app/theme/Frosted%20Glass), [Horizontal Server List](https://betterdiscord.app/theme/Horizontal%20Server%20List)**
 - - -
 Download: [https://betterdiscord.app/theme/CoolDiscord](https://betterdiscord.app/Download?id=40)  
 - - -
