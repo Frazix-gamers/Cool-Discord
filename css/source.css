@@ -67,6 +67,7 @@
  *	APP ELEMENTS
  *
  */
+
 body {
   background-color: transparent; }
 
@@ -126,13 +127,15 @@ body {
 .wordmarkWindows-1v0lYD {
   color: #fff; }
 
-.withFrame-haYltI {
-  margin-top: 0; }
-
-.winButton-iRh8-Z {
-  height: 100%;
-  top: 0;
-  color: #fff; }
+.platform-win .typeWindows-1za-n7 {
+    height: 9px;
+    margin-top: 0;
+    position: absolute;
+    top: 80px;
+    left: -30px;
+    width: 100%;
+    background: transparent;
+}
 
 .platform-osx .wrapper-3NnKdC {
   margin-top: 0;
