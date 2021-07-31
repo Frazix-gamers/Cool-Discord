@@ -1,10 +1,11 @@
 ## Cool Discord
 
-uses a lot of other theems and made a all in one
-it uses the **[RadialStatus](https://betterdiscord.app/theme/RadialStatus), [Frosted Glass](https://betterdiscord.app/theme/Frosted%20Glass), [Horizontal Server List](https://betterdiscord.app/theme/Horizontal%20Server%20List)**
+This Theem uses other theems and made a all in one
+it uses the **[RadialStatus](https://betterdiscord.app/theme/RadialStatus), [Horizontal Server List](https://betterdiscord.app/theme/Horizontal%20Server%20List)**
 
 ---
-
+preview: [Click me](https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/Frazix-gamers/Cool-Discord/src/CoolDiscord.theme.css)
+<br>
 Download: [https://betterdiscord.app/theme/CoolDiscord](https://betterdiscord.app/Download?id=40)
 
 ---
